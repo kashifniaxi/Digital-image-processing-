@@ -18,7 +18,7 @@ This repository contains several projects related to Digital Image Processing, e
 - **Description**: This project focuses on labeling connected components in an image without using built-in functions.
 - **Key Features**:
   - Implement a connected component labeling algorithm.
-  - Display equivalency tables and total number of objects found.
+  - Display equivalency tables and total number of objects found as a result.
 - **Code Snippet**:
   ```python
   labels[i, j] = current_label
