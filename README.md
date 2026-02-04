@@ -3,7 +3,7 @@
 This repository contains several projects related to Digital Image Processing, each focusing on different techniques and algorithms. Below is a summary of each project.
 
 ## 1. Connected Component Analysis and Skeletonization
-- **Description**: This project implements algorithms for connected component analysis and skeletonization of images.
+- **Description**: This project implements algorithms precisely for connected component analysis and skeletonization of images.
 - **Key Features**:
   - Load an image and count 8-connected objects.
   - Convert the image to binary and recount connected components.
